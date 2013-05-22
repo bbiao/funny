@@ -1,0 +1,4 @@
+funny
+=====
+
+Funny code snippet
